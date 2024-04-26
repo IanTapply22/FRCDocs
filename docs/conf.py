@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'FRCture'
-copyright = '2019, Jessica Creighton'
-author = 'Jessica Creighton'
+project = 'FRC Networking Documentation'
+copyright = '2019, Jessica  & 2024, Ian Tapply'
+author = 'Jessica Creighton & Ian Tapply'
 
 # The short X.Y version
 version = ''
@@ -89,30 +89,6 @@ html_theme_options = {
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-
-# Custom sidebar templates, must be a dictionary that maps document names
-# to template names.
-#
-# The default sidebars (for documents that don't match any pattern) are
-# defined by theme itself.  Builtin themes are using these templates by
-# default: ``['localtoc.html', 'relations.html', 'sourcelink.html',
-# 'searchbox.html']``.
-#
-# html_sidebars = {}
-
-# import os
-# on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
-
-# html_context = {
-#    'css_files': ['_static/custom.css'],
-#    'custom_scripts': ['_static/custom.js']
-# }
-
-
-# -- Options for HTMLHelp output ---------------------------------------------
-
-# Output file base name for HTML help builder.
-# htmlhelp_basename = 'frc-networking-docs'
 
 
 # -- Options for LaTeX output ------------------------------------------------
