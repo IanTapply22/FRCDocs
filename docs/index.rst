@@ -1,4 +1,4 @@
-FRCture -- Reverse Engineering FRC
+FRC Networking -- Reverse Engineering FRC
 ==================================
 
 Documenting the results of reversing engineering various proprietary aspects of
@@ -15,6 +15,7 @@ Report any suggestions or corrections on the `issues page <https://github.com/jc
 
    driverstation/index.rst
    fpga/index.rst
+   fms/index.rst
 
 
 
